@@ -1,0 +1,14 @@
+,race_id,bracket_number,horse_number,horse_name,gender,age,penalty,jockey,trainer,horse_weight,weight_cycling,odds,favorite,racecourse,track_surface,circumference,turn,wether,track_condition
+0,202207050211,1,1,Bon Voyage,female,5,54,Kawasu,[East] Umeda,442,4,25.9,7,Chukyo,grass,1200,anticlockwise,sunny,firm
+1,202207050211,2,2,chandelier moon,female,6,54,Saito,[West] Makoto Saito,480,4,55.6,8,Chukyo,grass,1200,anticlockwise,sunny,firm
+2,202207050211,3,3,jasper prince,male,7,56,Matsuyama,[East] Mori,494,-6,89.8,11,Chukyo,grass,1200,anticlockwise,sunny,firm
+3,202207050211,4,4,Meisho Keimei,female,6,54,Furukawa Yoshi,[East] Minamii,446,8,208.9,13,Chukyo,grass,1200,anticlockwise,sunny,firm
+4,202207050211,4,5,Meikayale,female,4,55,Ikezoe,[East] Wuying,484,14,1.7,1,Chukyo,grass,1200,anticlockwise,sunny,firm
+5,202207050211,5,6,Taisei Avenir,male,7,56,Yasushi Fujioka,[East] Nishimura,480,-2,69.3,9,Chukyo,grass,1200,anticlockwise,sunny,firm
+6,202207050211,5,7,Sunrise Honest,male,5,56,Akira Yokoyama,[East] Kawachi,468,-6,13.4,4,Chukyo,grass,1200,anticlockwise,sunny,firm
+7,202207050211,6,8,Montreise,male,4,56,Kawada,[East] Miki Matsunaga,504,-4,17.2,5,Chukyo,grass,1200,anticlockwise,sunny,firm
+8,202207050211,6,9,Daddy's Vivid,male,4,56,Takeshita,[East] Senda,512,6,12.9,3,Chukyo,grass,1200,anticlockwise,sunny,firm
+9,202207050211,7,10,chairing song,male,5,56,Sakai,[West] Aoki,464,0,138.8,12,Chukyo,grass,1200,anticlockwise,sunny,firm
+10,202207050211,7,11,song line,female,4,56,Lemaire,[West] forest,484,2,3.2,2,Chukyo,grass,1200,anticlockwise,sunny,firm
+11,202207050211,8,12,fast force,male,6,56,Dunno,[East] Nishimura,522,12,20.7,6,Chukyo,grass,1200,anticlockwise,sunny,firm
+12,202207050211,8,13,Loving Answer,male,8,56,Hishida,[East] Ishizaka,504,-2,84.3,10,Chukyo,grass,1200,anticlockwise,sunny,firm

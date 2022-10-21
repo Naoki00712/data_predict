@@ -1,0 +1,13 @@
+,race_id,order_of_finish,bracket_number,horse_number,horse_name,gender,age,penalty,jockey,trainer,horse_weight,weight_cycling,odds,favorite,racecourse,track_surface,circumference,turn,wether,track_condition
+0,202207050212,1,5,6,Lara Volciel,male,3,55,Ryuji Wada,[West] Yasuyuki Tsujino,432,0,4.5,2,Chukyo,grass,1600,anticlockwise,sunny,firm
+1,202207050212,2,7,10,susan asher,male,3,55,Norihiro Yokoyama,[West] Takashi Suzuki,454,2,40.4,7,Chukyo,grass,1600,anticlockwise,sunny,firm
+2,202207050212,3,4,4,sankfeuille,female,3,53,Masamasa Kawada,[West] Mitsuru Nakauchida,456,16,1.6,1,Chukyo,grass,1600,anticlockwise,sunny,firm
+3,202207050212,4,8,12,June Rainbow,female,3,53,Daisaku Matsuda,[West] Wu Yingzhi,436,10,15.2,5,Chukyo,grass,1600,anticlockwise,sunny,firm
+4,202207050212,5,2,2,Borzakovsky,male,3,55,Kohei Matsuyama,[West] Kushi Shimizu,498,-10,8.6,3,Chukyo,grass,1600,anticlockwise,sunny,firm
+5,202207050212,6,5,5,leon burrows,male,3,55,Lemaire,[West] Kaoruhiko Watanabe,464,4,11.2,4,Chukyo,grass,1600,anticlockwise,sunny,firm
+6,202207050212,7,3,3,VIP Lambang,male,4,57,Rusei Sakai,[West] Kushi Shimizu,482,0,86.5,10,Chukyo,grass,1600,anticlockwise,sunny,firm
+7,202207050212,8,6,7,Tausent Schoen,female,4,51,Naho Furukawa,[West] Yoshihito Yahagi,424,6,125.5,11,Chukyo,grass,1600,anticlockwise,sunny,firm
+8,202207050212,9,6,8,Eishin Pixel,female,4,55,Kenichi Ikezoe,[West] Ken Kozaki,460,4,16.2,6,Chukyo,grass,1600,anticlockwise,sunny,firm
+9,202207050212,10,8,11,Bamberg,male,4,56,Kakuda Yamato,[West] Kobayashi Maya,470,-2,83.1,9,Chukyo,grass,1600,anticlockwise,sunny,firm
+10,202207050212,11,1,1,Winbagus,male,3,55,Pine horse,[West] West Garden Zhengdu,478,2,63.8,8,Chukyo,grass,1600,anticlockwise,sunny,firm
+11,202207050212,12,7,9,Grande Regina,female,3,53,Kota Fujioka,[West] Kenichi Fujioka,432,-4,189.3,12,Chukyo,grass,1600,anticlockwise,sunny,firm
