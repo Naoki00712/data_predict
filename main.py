@@ -19,14 +19,9 @@ score_std = result['score'].std(ddof=0)
 score_mean = result['score'].mean()
 result['DeviationValue'] = result['score'].map(lambda x: round((x - score_mean) / score_std * 10 + 50, 2))
 
-# result_d = result.loc[:, ['horse_number', 'prediction_label', 'prediction_score']].reset_index(drop=True)
-
 merge = pd.merge(race_data, result['DeviationValue'], right_index=True, left_index=True)
 
 merge.to_csv('/Users/naokimatsumoto/Desktop/pyc/prediction.csv')
+merge.to_json('/Users/naokimatsumoto/Desktop/pyc/prediction.json')
 
 print(merge)
-
-# path = '/Users/naokimatsumoto/Desktop/pyc/prediction.json'
-# merge.to_json(path)
-# print(data_predict)
