@@ -10,7 +10,7 @@ def score(self):
         return str("none")
 
 model = load_model('/Users/naokimatsumoto/Desktop/pyc/2021_lr')
-race_data = pd.read_csv('/Users/naokimatsumoto/Desktop/pyc/data_predict_202207050211.csv',index_col=0)
+race_data = pd.read_csv('/Users/naokimatsumoto/Desktop/pyc/data_predict_202207050209.csv',index_col=0)
 
 result = predict_model(model, data = race_data)
 

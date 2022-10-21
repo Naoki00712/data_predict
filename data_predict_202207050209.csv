@@ -1,0 +1,9 @@
+,race_id,bracket_number,horse_number,horse_name,gender,age,penalty,jockey,trainer,horse_weight,weight_cycling,odds,favorite,racecourse,track_surface,circumference,turn,wether,track_condition
+0,202207050209,1,1,Pinochle,male,6,57,Matsuyama,[East] Otonashi,482,8,10.6,6,Chukyo,grass,2000,anticlockwise,sunny,firm
+1,202207050209,2,2,sound warrior,male,4,57,fortunate,[East] Kang Takahashi,500,2,3.4,2,Chukyo,grass,2000,anticlockwise,sunny,firm
+2,202207050209,3,3,heart of a city,male,4,57,Hishida,[East] Morita,442,6,4.0,3,Chukyo,grass,2000,anticlockwise,sunny,firm
+3,202207050209,4,4,love ambassador,female,5,55,Akira Yokoyama,[East] Miki Matsunaga,432,0,8.2,4,Chukyo,grass,2000,anticlockwise,sunny,firm
+4,202207050209,5,5,Verzasca,female,5,55,Songwaka,[East] Konno,454,12,10.5,5,Chukyo,grass,2000,anticlockwise,sunny,firm
+5,202207050209,6,6,Kibounodaichi,gelding,7,57,Kido,[East] Hatabata,498,6,39.3,7,Chukyo,grass,2000,anticlockwise,sunny,firm
+6,202207050209,7,7,analemma,male,4,57,Fukunaga,[East] Fujiwara,458,2,2.6,1,Chukyo,grass,2000,anticlockwise,sunny,firm
+7,202207050209,8,8,doolittle,male,7,57,Fujikake,[East] Murayama,474,-18,223.1,8,Chukyo,grass,2000,anticlockwise,sunny,firm

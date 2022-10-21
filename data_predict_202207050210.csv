@@ -1,0 +1,17 @@
+,race_id,bracket_number,horse_number,horse_name,gender,age,penalty,jockey,trainer,horse_weight,weight_cycling,odds,favorite,racecourse,track_surface,circumference,turn,wether,track_condition
+0,202207050210,1,1,Peptide Yamato,male,3,54,Matsuda,[East] Wuying,472,-4,5.9,2,Chukyo,dirt,1200,anticlockwise,sunny,good
+1,202207050210,1,2,Suzuka Kinshasa,male,4,55,Lemaire,[East] Uemura,486,10,8.0,5,Chukyo,dirt,1200,anticlockwise,sunny,good
+2,202207050210,2,3,land volcano,male,4,55,Sakai,[East] Anda,478,0,9.5,6,Chukyo,dirt,1200,anticlockwise,sunny,good
+3,202207050210,2,4,scarlet sky,female,4,54,Imamura,[East] Okada,470,-6,6.6,3,Chukyo,dirt,1200,anticlockwise,sunny,good
+4,202207050210,3,5,Clinosan Leo,male,9,54,Hiroshi Mori,[East] Fujisawa,464,-6,62.9,15,Chukyo,dirt,1200,anticlockwise,sunny,good
+5,202207050210,3,6,kurojishijo,male,3,54,Hishida,[East] Okada,432,-4,7.7,4,Chukyo,dirt,1200,anticlockwise,sunny,good
+6,202207050210,4,7,Copacina,gelding,5,55,Kawada,[West] Kei Ito,494,2,5.1,1,Chukyo,dirt,1200,anticlockwise,sunny,good
+7,202207050210,4,8,Matthias,male,5,53,Izumiya,[East] Honda,494,-6,159.4,16,Chukyo,dirt,1200,anticlockwise,sunny,good
+8,202207050210,5,9,mailapore,female,4,53,Fukunaga,[West] Wadaro,486,6,14.4,9,Chukyo,dirt,1200,anticlockwise,sunny,good
+9,202207050210,5,10,Ayu Strong,male,4,54,Ryu Wada,[East] Takashi Suzuki,466,4,43.7,12,Chukyo,dirt,1200,anticlockwise,sunny,good
+10,202207050210,6,11,jasper gold,male,4,54,Matsumoto,[East] Mori,456,-14,47.9,13,Chukyo,dirt,1200,anticlockwise,sunny,good
+11,202207050210,6,12,Locoporti,male,4,54,Matsuyama,[East] Tadashi Nishizono,528,4,23.7,10,Chukyo,dirt,1200,anticlockwise,sunny,good
+12,202207050210,7,13,Hokko Karyu,female,4,53,fortunate,[East] Yu Iida,480,10,58.3,14,Chukyo,dirt,1200,anticlockwise,sunny,good
+13,202207050210,7,14,Ashitaba,female,4,53,Dunno,[East] Yutaka Okumura,484,6,11.1,7,Chukyo,dirt,1200,anticlockwise,sunny,good
+14,202207050210,8,15,radio magic,male,5,54,Tasuku Fujioka,[East] Sasaki,490,4,42.1,11,Chukyo,dirt,1200,anticlockwise,sunny,good
+15,202207050210,8,16,Eisinbacchus,male,5,55,Songwaka,[East] Konno,484,10,13.7,8,Chukyo,dirt,1200,anticlockwise,sunny,good
